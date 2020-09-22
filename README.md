@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/d4/c1/7d/d4c17d48d9e0a5ac9986887163f435ec.jpg" min-width="400px" max-width="100%" width="100%" align="right" alt="Computador IuriCode">
+<img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" min-width="400px" max-width="100%" width="400px%" align="left" alt="Computador IuriCode">
 
 
 
