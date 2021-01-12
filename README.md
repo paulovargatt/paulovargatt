@@ -20,3 +20,7 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=paulovargatt&theme=onedark&row=1&column=4&margin-w=7&margin-h=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vargatt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
