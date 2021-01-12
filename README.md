@@ -21,6 +21,6 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=paulovargatt&theme=onedark&row=1&column=3&margin-w=3&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vargatt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vargatt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
