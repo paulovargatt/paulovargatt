@@ -20,6 +20,6 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=paulovargatt&theme=onedark&row=1&column=4&margin-w=4&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=paulovargatt&theme=onedark&row=1&column=3&margin-w=4&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
