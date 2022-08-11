@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/042d5dc0-9002-474d-b639-d5c77325a264.svg)](https://wakatime.com/@042d5dc0-9002-474d-b639-d5c77325a264)
 <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" min-width="400px" max-width="100%" width="400px%" align="left" alt="Computador IuriCode">
 
 ### Technologies
