@@ -1,9 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/042d5dc0-9002-474d-b639-d5c77325a264.svg)](https://wakatime.com/@042d5dc0-9002-474d-b639-d5c77325a264)
 
-https://user-images.githubusercontent.com/28814403/205523680-7540ae28-450a-4ff7-9156-f82cb53b3abe.mp4
-
-
-[![Extension Download](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/YT2Grfi9vEBa2wAPzhWa.png)](https://chrome.google.com/webstore/detail/codesnip-increase-your-pr/cgnidfgnfigbjanbddnlgianomnbgmam?utm_source=public-snippet&utm_medium=banner-public-site&utm_campaign=github)
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -26,5 +22,12 @@ https://user-images.githubusercontent.com/28814403/205523680-7540ae28-450a-4ff7-
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=paulovargatt&theme=onedark&row=1&column=4&margin-w=4&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+https://user-images.githubusercontent.com/28814403/205523680-7540ae28-450a-4ff7-9156-f82cb53b3abe.mp4
+
+
+[![Extension Download](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/YT2Grfi9vEBa2wAPzhWa.png)](https://chrome.google.com/webstore/detail/codesnip-increase-your-pr/cgnidfgnfigbjanbddnlgianomnbgmam?utm_source=public-snippet&utm_medium=banner-public-site&utm_campaign=github)
+
 
 
