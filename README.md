@@ -1,10 +1,9 @@
 [![wakatime](https://wakatime.com/badge/user/042d5dc0-9002-474d-b639-d5c77325a264.svg)](https://wakatime.com/@042d5dc0-9002-474d-b639-d5c77325a264)
 
+https://user-images.githubusercontent.com/28814403/205523680-7540ae28-450a-4ff7-9156-f82cb53b3abe.mp4
+
 
 [![Extension Download](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/YT2Grfi9vEBa2wAPzhWa.png)](https://chrome.google.com/webstore/detail/codesnip-increase-your-pr/cgnidfgnfigbjanbddnlgianomnbgmam?utm_source=public-snippet&utm_medium=banner-public-site&utm_campaign=github)
-
-
-<img src="https://user-images.githubusercontent.com/28814403/205523680-7540ae28-450a-4ff7-9156-f82cb53b3abe.mp4" width="250" height="200" >
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
